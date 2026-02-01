@@ -1,7 +1,6 @@
 
 ---
 
-```javascript
 /**
  * Excel SFT Transformation Script (Office.js / Script Lab)
  *
